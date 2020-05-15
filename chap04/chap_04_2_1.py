@@ -17,7 +17,7 @@ dic_a["까메오"]="스텐리"
 print(dic_a)
 
 del dic_a["release"]
-print(dic_a)
+    print(dic_a)
 
 key="cast"
 if key in dic_a:
